@@ -2,15 +2,15 @@
 
 ## 1. Purpose
 
-A primary goal of Blood Bank is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of the Blood Bank is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+This code of conduct outlines our expectations for all participants in our community, as well as the consequences for unacceptable behaviour.
 
-We invite all those who participate in Blood Bank to help us create safe and positive experiences for everyone.
+We invite all participants in the Blood Bank to help us create safe and positive experiences for everyone.
 
 ## 2. Open [Source/Culture/Tech] Citizenship
 
-A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
+A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognise and strengthen the relationships between our actions and their effects on our community.
 
 Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
 
@@ -18,7 +18,7 @@ If you see someone who is making an extra effort to ensure our community is welc
 
 ## 3. Expected Behavior
 
-The following behaviors are expected and requested of all community members:
+The following behaviours are expected and requested of all community members:
 
  * Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
  * Exercise consideration and respect in your speech and actions.
