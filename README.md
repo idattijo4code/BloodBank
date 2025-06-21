@@ -2,13 +2,13 @@
 “Blood Point” is an android application to collect or donate blood easily. Users who have an android phone & active internet connection can contact and start searching for a donor easily through this application. The purpose of this application is to help people belonging to rural areas.
 
 # Features
-Easy contact between blood donor and blood recipient through this android application.<br>
+Easy contact between the blood donor and the blood recipient through this android application.<br>
 Included:
 - User Databases
 - User Login & Sign up
 - Donor Details
 - Finding blood group easily
-- Finding Near By Hospitals
+- Finding Nearby Hospitals
 - Achievements & Rewards
        
 # Tools used
@@ -21,14 +21,14 @@ Included:
   
 # How to install?
 
-You can install this application to test on your android smartphone. To download the signed application go to your chrome browser and copy-paste the download link:
+You can install this application to test on your Android smartphone. To download the signed application, go to your Chrome browser and copy-paste the download link:
 
 ```
 
 ```
 
-Download will be started automatically. After then install it on your android device.
-Open the application, create an account. That's it.
+The download will start automatically. After that install it on your Android device.
+Open the application, and create an account. That's it.
 
 N.B: It supports only in android version 4.0 or later.
 
@@ -46,7 +46,7 @@ N.B: It supports only in android version 4.0 or later.
 
 # Database Snapshot
 Follow this link: https://github.com/imShakil/BloodBank/wiki/Database-Snapshots
-(This project can be used for any educational purpose and can be changed or modified in need.<br><b> A star will be appriciated if you think it might be helpful.</b>)<br>
+(This project can be used for any educational purpose and can be changed or modified in need.<br><b> A star will be appreciated if you think it might be helpful.</b>)<br>
 
 # Changing Database and Package Name
 I got so many mails on about 'How to change Database link and Package Name'. So, Who has queries can watch this video: https://www.youtube.com/watch?v=nAzAo7shGKQ&ab_channel=AnubhavAnand
